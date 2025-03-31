@@ -1,0 +1,83 @@
+## Generate formula, fit Cox PH and wrangle results. 
+# data = data.frame with all needed variables as columns
+# predictors = vector of variables whose effect we are interested in
+# covariates = vector of controlled covariates
+# status = 0/1 corresponding to no event/event; alive/dead etc.
+# time_to_event = follow-up time until event or censoring
+# splines = TRUE/FALSE; should the effect of predictor be modelled non-linearly? 
+# If TRUE, both linear and non-linear models are fit and for each predictor the fit with lower p-value is chosen.
+# normalize = TRUE/FALSE; standardize (x-mean(x)/sd(x)) predictor before fitting model?
+# This makes comparison of hazard ratios easier
+# test_ph_assumption = TRUE/FALSE; if TRUE the function also returns a data frame with variable pairs that potentially
+# do not meet the assumption of proportional hazards.
+
+
+cox_regression <- function(data,
+                           predictors,
+                           covariates,
+                           status = "DEATH",
+                           time_to_event = "DEATH_AGEDIFF",
+                           splines,
+                           normalize) {
+  
+  
+  if(normalize) {
+    
+    if(class(data[, predictors]) == "numeric") {
+      
+      x <- data[, predictors]
+      data[, predictors] <- (x - mean(x, na.rm = T))/sd(x, na.rm = T) 
+    } else {
+      data[, predictors] <- apply(data[, predictors], 2, FUN = function(x) {(x - mean(x, na.rm = T))/sd(x, na.rm = T) })
+    }
+    
+  }
+  
+  ## Formulas ***************************
+  linear_formulas <- lapply(predictors, function(x) {
+    formula_data <- deparse(substitute(data))
+    
+    formula <- paste0("Surv(", formula_data, "$", time_to_event, ", ",formula_data,"$", status, ") ~ ",paste(covariates, collapse = "+"), " + ",x)
+    
+    return(formula)
+    
+  }) %>% 
+    set_names(predictors)
+  
+  if(splines) {
+    spline_formulas <- lapply(predictors, function(x) {
+      formula_data <- deparse(substitute(data))
+      
+      formula <- paste0("Surv(", formula_data, "$", time_to_event, ", ",formula_data,"$", status, ") ~ ",paste(covariates, collapse = "+"), " + pspline(",x, ")")
+      
+      return(formula)
+      
+    }) %>% 
+      set_names(predictors)
+  }
+  
+  ## Cox regression *********************
+  print("Cox")
+  linear_cox_fit <- lapply(linear_formulas, function(x) {
+    
+    coxph(as.formula(x), data=data, x=TRUE)
+    
+  })
+  
+  if(splines) {
+    spline_cox_fit <- lapply(spline_formulas, function(x) {
+      
+      coxph(as.formula(x), data=data, x=TRUE)
+      
+    })
+    
+    return(list(linear_cox_fit = linear_cox_fit, spline_cox_fit = spline_cox_fit))
+  } else {
+    
+    
+    return(linear_cox_fit = linear_cox_fit)
+  }
+  
+  
+  
+}

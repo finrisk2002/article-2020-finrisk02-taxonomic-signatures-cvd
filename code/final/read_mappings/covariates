@@ -1,0 +1,1 @@
+covariates <- c("BL_AGE","BMI", "MEN", "CURR_SMOKE", "PREVAL_DIAB", "SYSTM", "BL_USE_RX_L", "BP_TREAT")

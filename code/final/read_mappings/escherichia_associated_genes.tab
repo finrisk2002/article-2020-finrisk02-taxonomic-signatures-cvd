@@ -1,0 +1,476 @@
+Gene	Pvalue
+VFG000918(gb|NP_756175) (chuT) periplasmic heme-binding protein ChuT [Chu (VF0227)] [Escherichia coli CFT073]	2.99335132050354e-14
+VFG000887(gb|NP_755461) (papK) P pilus minor subunit PapK [P fimbriae (VF0220)] [Escherichia coli CFT073]	3.49637170100064e-16
+VFG000618(gb|NP_709457) (iucD) aerobactin synthesis protein IucC, lysine 6-monooxygenase [Aerobactin (VF0123)] [Shigella flexneri 2a str. 301]	1.86862936736034e-12
+VFG033129(gi:386622204) (papC) Fimbriae usher protein StfC [P fimbriae (CVF425)] [Escherichia coli NA114]	0.0002379090963355
+VFG033317(gi:157155516) (fimF) protein FimF [Type I fimbriae (CVF426)] [Escherichia coli E24377A]	2.60822339753288e-19
+VFG033954(gi:410484659) (iucD) L-lysine 6-monooxygenase (Lysine N(6)-hydroxylase) [Aerobactin siderophore (CVF457)] [Escherichia coli O104:H4 str. 2009EL-2050]	8.75487241299084e-11
+VFG035879(gi:110640454) (aec8) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 536]	6.65925019809954e-06
+VFG045782 (matA/ecpR) Mat/Ecp fimbriae transcriptional regulator [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O25b:H4-ST131]	6.51564323687916e-05
+VFG012947(gi:74313968) (iucA) siderophore biosynthesis protein [Aerobactin synthesis (CVF474)] [Shigella sonnei Ss046]	4.07459634005279e-08
+VFG012951(gi:82546635) (iucB) siderophore biosynthesis protein [Aerobactin synthesis (CVF474)] [Shigella boydii Sb227]	1.65131734705905e-05
+VFG044171(gi:26248334) (hma) putative outer membrane receptor for iron compound or colicin [direct heme uptake system (IA048)] [Escherichia coli CFT073]	1.23503691232284e-05
+VFG000925(gb|NP_752606) (fepC) ferrienterobactin ABC transporter ATPase [Enterobactin (VF0228)] [Escherichia coli CFT073]	3.41427894626903e-15
+VFG035762(gi:110640445) (aec18) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 536]	0.00780105091327343
+VFG044159(gb|NP_752602) (fes) enterobactin/ferric enterobactin esterase [enterobactin (IA019)] [Escherichia coli CFT073]	0.00448829021912251
+VFG035992(gi:91209435) (ehaB) structural protein [EhaB, AIDA-I type (CVF744)] [Escherichia coli UTI89]	1.34745738183613e-08
+VFG000903(gb|NP_752289) (pic) serine protease precursor [Pic (VF0232)] [Escherichia coli CFT073]	8.20894620255596e-16
+VFG043693(gi:112292718) (clbB) putative hybrid polyketide-non-ribosomal peptide synthetase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	4.1506779821274e-08
+VFG043686(gi:112292711) (clbI) putative polyketide synthase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	4.27347059673022e-13
+VFG043685(gi:112292710) (clbJ) putative non-ribosomal peptide synthase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	1.35229281834909e-21
+VFG043545(gi:218560235) (ECS88_3547) lipoprotein NlpI [NlpI (AI331)] [Escherichia coli O45:K1:H7 str. S88]	2.01834354064727e-11
+VFG043692(gi:112292717) (clbC) putative polyketide synthase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	7.25997907103535e-05
+VFG043679(gi:112292704) (clbP) putative penicillin binding protein [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.00693540820417894
+VFG000931(gb|NP_752611) (entC) isochorismate synthase 1 [Enterobactin (VF0228)] [Escherichia coli CFT073]	3.8084265226519e-05
+VFG043684(gi:112292709) (clbK) putative hybrid non-ribosomal peptide-polyketide synthetase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	6.3936185937905e-08
+VFG035940(gi:26250246) (upaG/ehaG) adhesin [UpaG (SS168)] [Escherichia coli CFT073]	0.000505377685975555
+VFG043544(gi:15800816) (Z1307) outer membrane protein A [OmpA (AI330)] [Escherichia coli O157:H7 str. EDL933]	1.48538625659227e-05
+VFG043688(gi:112292713) (clbG) putative malonyl-CoA transacylase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	3.97165769236385e-05
+VFG035347(gi:386640312) (ECABU_c31070) ImpA-related N-terminal family protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	1.91463640848804e-08
+VFG036031(gi:26246247) (cdiA) ShlA/HecA/FhaA exofamily protein [Contact-dependent inhibition CDI system (CVF747)] [Escherichia coli CFT073]	7.40740531179865e-09
+VFG043683(gi:112292708) (clbL) putative amidase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	1.95040962432689e-11
+VFG001449(gb|AAA24047) (kpsT) KpsT [K1 capsule (VF0239)] [Escherichia coli O18:K1:H7 str. RS218]	0.000184738554172223
+VFG049160(gb|YP_006635486.1) (clbN) colibactin non-ribosomal peptide synthetase ClbN [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	0.00307377255227533
+VFG049158(gb|YP_006635484.1) (clbL) colibactin biosynthesis amidase ClbL [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	8.13372146901326e-19
+VFG043680(gi:112292705) (clbO) putative polyketide synthase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.000428893214224157
+VFG043689(gi:112292714) (clbF) putative acyl-CoA dehydrogenase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	3.59359866229444e-22
+VFG049148(gb|YP_006635474.1) (clbB) colibactin hybrid non-ribosomal peptide synthetase/type I polyketide synthase ClbB [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	2.0333255948211e-13
+VFG049153(gb|YP_006635479.1) (clbG) colibactin biosynthesis acyltransferase ClbG [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	8.01395776624767e-05
+VFG000924(gb|NP_752610) (fepB) ferrienterobactin ABC transporter periplasmic binding protein [Enterobactin (VF0228)] [Escherichia coli CFT073]	2.25850315866815e-06
+VFG036039(gi:386637642) (cdiB) putative hemolysin activator ShlB-type [Contact-dependent inhibition CDI system (CVF747)] [Escherichia coli ABU 83972]	6.18026067538024e-05
+VFG049161(gb|YP_006635487.1) (clbO) colibactin polyketide synthase ClbO [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	0.000123731145152365
+VFG043682(gi:112292707) (clbM) putative drug/sodium antiporter [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	2.62470620042283e-05
+VFG043681(gi:112292706) (clbN) putative non-ribosomal peptide synthetase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	1.51768176122289e-05
+VFG043687(gi:112292712) (clbH) putative non-ribosomal peptide synthase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	3.3014457144785e-05
+VFG043678(gi:112292703) (clbQ) putative thioesterase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.000438167324957066
+VFG049154(gb|YP_006635480.1) (clbH) colibactin non-ribosomal peptide synthetase ClbH [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	1.66282508177538e-07
+VFG044172(gb|NP_756180) (chuV) ATP-binding hydrophilic protein ChuV [Chu (VF0227)] [Escherichia coli CFT073]	3.77559277898998e-06
+VFG000923(gb|NP_752600) (fepA) ferrienterobactin outer membrane transporter [Enterobactin (VF0228)] [Escherichia coli CFT073]	2.11072137862704e-08
+VFG033958(gi:218701709) (iucD) L-lysine 6-monooxygenase [Aerobactin siderophore (CVF457)] [Escherichia coli O7:K1 str. IAI39]	1.67829576856618e-06
+VFG046068 (csgG) curli production assembly/transport component CsgG [Curli fibers (CVF822)] [Escherichia coli VR50]	0.00661583996626815
+VFG000929(gb|NP_752599) (entD) phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex [Enterobactin (VF0228)] [Escherichia coli CFT073]	1.47666566712171e-09
+VFG000930(gb|NP_752604) (entF) enterobactin synthase multienzyme complex component, ATP-dependent [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.000108736942735438
+VFG001443(gb|AAF37887) (ompA) outer membrane protein A [OmpA (VF0236)] [Escherichia coli O18:K1:H7 str. RS218]	9.88365126435401e-07
+VFG000928(gb|NP_752607) (fepG) iron-enterobactin ABC transporter permease [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.00359349318059597
+VFG000932(gb|NP_752612) (entE) 2,3-dihydroxybenzoate-AMP ligase component of enterobactin synthase multienzyme complex [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.00035577126120583
+VFG049155(gb|YP_006635481.1) (clbI) colibactin polyketide synthase ClbI [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	0.000133064478801185
+VFG035206(gi:117625048) (APECO1_3711) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	0.000169427141432287
+VFG000933(gb|NP_752613) (entB) isochorismatase [Enterobactin (VF0228)] [Escherichia coli CFT073]	9.97356846397682e-06
+VFG044165(gb|NP_752609) (entS) enterobactin exporter, iron-regulated [enterobactin (IA019)] [Escherichia coli CFT073]	0.00187712883737882
+VFG049147(gb|YP_006635473.1) (clbA) colibactin biosynthesis phosphopantetheinyl transferase ClbA [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	0.00614249562152502
+VFG001731(gi:26249445) (c3610) bifunctional enterobactin receptor/adhesin protein [IrgA homolog adhesin (Iha) (AI324)] [Escherichia coli CFT073]	1.35640837270203e-05
+VFG035271(gi:117625060) (APECO1_3698) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	7.69097124283107e-05
+VFG049157(gb|YP_006635483.1) (clbK) colibactin hybrid non-ribosomal peptide synthetase/type I polyketide synthase ClbK  [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	0.00307377255227533
+VFG035350(gi:386600827) (ECOK1_3214) ImpA domain-containing protein [SCI-I T6SS (CVF734)] [Escherichia coli O18:K1:H7 str. IHE3034]	6.16309543493766e-06
+VFG043691(gi:112292716) (clbD) putative 3-hydroxyacyl-CoA dehydrogenase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.000223348379121323
+VFG046011 (hofC) protein transport protein HofC-like protein [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli VR50]	5.48399246518323e-06
+VFG045464(gb|NP_754290) (tcpC) Tir domain containing protein TcpC [TcpC (VF0413)] [Escherichia coli CFT073]	0.000115625766304927
+VFG035121(gi:26249222) (c3387) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	0.00164900802819215
+VFG049152(gb|YP_006635478.1) (clbF) colibactin biosynthesis dehydrogenase ClbF [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	2.53947303395545e-08
+VFG049149(gb|YP_006635475.1) (clbC) colibactin polyketide synthase ClbC [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	1.76584442986822e-14
+VFG049150(gb|YP_006635476.1) (clbD) colibactin biosynthesis dehydrogenase ClbD [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	3.26510585168249e-19
+VFG036084(gi:91206275) (senB) enterotoxin TieB protein [Enterotoxin SenB/TieB (CVF755)] [Escherichia coli UTI89]	2.65460518633551e-05
+VFG049163(gb|YP_006635489.1) (clbQ) colibactin biosynthesis thioesterase ClbQ  [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	1.35640837270203e-05
+VFG042592(gi:46487741) (stgC) StgC [Stg fimbriae (AI047)] [Escherichia coli O78:K80:H9 chi7122]	6.13325165573236e-05
+VFG000934(gi:26246575) (entA) 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [Enterobactin (VF0228)] [Escherichia coli CFT073]	1.28677018344515e-08
+VFG001448(gb|AAA21682) (kpsD) KpsD [K1 capsule (VF0239)] [Escherichia coli O18:K1:H7 str. RS218]	3.46050086509433e-11
+VFG035587(gi:117622506) (aec26) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	0.000292066387568677
+VFG043695(gi:112292720) (clbA) putative 4'-phosphopantetheinyl transferase [colibactin (TX033)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.00614249562152502
+VFG001450(gb|AAA24046) (kpsM) KpsM [K1 capsule (VF0239)] [Escherichia coli O18:K1:H7 str. RS218]	9.67991209159235e-05
+VFG036076(gi:386637465) (usp) putative S-type colicin [Colicin-like Usp (CVF754)] [Escherichia coli ABU 83972]	9.67991209159235e-05
+VFG012353(gi:110644632) (tia) OmpA family protein [Tia/Hek (CVF430)] [Escherichia coli 536]	8.46612489478748e-06
+VFG049159(gb|YP_006635485.1) (clbM) precolibactin export MATE transporter ClbM [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	0.00112465450590461
+VFG033892(gi:386641997) (hlyA) C-terminal part of hemolysin HlyA [Alpha-hemolysin (CVF453)] [Escherichia coli ABU 83972]	1.00268762531072e-06
+VFG035689(gi:117622510) (aec22) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	0.00038082079203508
+VFG000927(gi:26246566) (fepE) ferric enterobactin transport protein FepE [Enterobactin (VF0228)] [Escherichia coli CFT073]	7.66365699977692e-22
+VFG035259(gi:386640307) (ECABU_c31020) ImpA-like protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	2.60424737179769e-06
+VFG018204(gi:117622567) (ecpA) Hypothetical protein yagZ precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli APEC O1]	0.00614249562152502
+VFG012522(gi:88770304) (iucC) IucC [Aerobactin siderophore (CVF457)] [Escherichia coli APEC O1]	4.31711163653017e-12
+VFG012513(gb|NP_753168) (iroB) glucosyltransferase IroB [Salmochelin (IA013)] [Escherichia coli CFT073]	4.1752835234538e-09
+VFG035211(gi:386640301) (ECABU_c30960) VGR-related protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	1.48916662380243e-24
+VFG046101 (senB) Enterotoxin TieB protein [Enterotoxin SenB/TieB (CVF755)] [Escherichia coli VR50]	1.47132711711035e-13
+VFG044067(gi:218534572) (pECS88_0104) Colicin-Ia [colicin Ia (TX382)] [Escherichia coli O45:K1:H7 str. S88]	1.98639876757993e-12
+VFG001445(gi:150860) (traJ) TraJ [TraJ (VF0241)] [Escherichia coli]	8.1928184032737e-19
+VFG012501(gb|NP_753165) (iroE) esterase [Salmochelin (IA013)] [Escherichia coli CFT073]	0.000223348379121323
+VFG049156(gb|YP_006635482.1) (clbJ) colibactin non-ribosomal peptide synthetase ClbJ [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	0.000473307727915355
+VFG035613(gi:117622507) (aec25) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	0.000178543580506947
+VFG042591(gi:46487740) (stgB) StgB [Stg fimbriae (AI047)] [Escherichia coli O78:K80:H9 chi7122]	3.31695296004457e-08
+VFG033884(gi:386641996) (hlyB) hemolysin secretion protein HlyB [Alpha-hemolysin (CVF453)] [Escherichia coli ABU 83972]	7.57145466849195e-23
+VFG012526(gi:88770306) (iucA) IucA [Aerobactin siderophore (CVF457)] [Escherichia coli APEC O1]	4.87053682309303e-20
+VFG035185(gi:26249227) (c3392) ClpB protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	6.43009410832502e-19
+VFG035237(gi:26249233) (c3398) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	1.57200528015131e-20
+VFG012515(gi:91210151) (iroB) putative glucosyltransferase [Salmochelin siderophore (CVF456)] [Escherichia coli UTI89]	1.42825091626513e-20
+VFG035586(gi:110640438) (aec26) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 536]	3.76543995200432e-35
+VFG041003(gi:284924301) (aaiW) transposase [AAI/SCI-II (SS182)] [Escherichia coli O44:H18 042]	2.16351130878185e-08
+VFG033369(gi:387615053) (fimH) minor component of type 1 fimbriae [Type I fimbriae (CVF426)] [Escherichia coli O78:H11:K80 str. H10407]	1.27737000986153e-06
+VFG035204(gi:26249228) (c3393) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	5.53783145689047e-16
+VFG033934(gi:218534592) (iroB) IroB, putative glucosyltransferase [Salmochelin siderophore (CVF456)] [Escherichia coli O45:K1:H7 str. S88]	5.25797196768119e-17
+VFG035252(gi:26249234) (c3399) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	1.05349497729815e-14
+VFG040949(gi:157157609) (gspJ) general secretion pathway protein J [gsp (SS206)] [Escherichia coli E24377A]	8.23146785969703e-14
+VFG012595(gi:91213001) (chuS) putative heme/hemoglobin transport protein [Hemin uptake (CVF460)] [Escherichia coli UTI89]	1.47427823933172e-18
+VFG000873(gb|NP_757241) (fimA) Type-1 fimbrial protein, A chain precursor [Type 1 fimbriae (VF0221)] [Escherichia coli CFT073]	9.07145908277254e-17
+VFG034005(gi:218534490) (iucA) Aerobactin siderophore biosynthesis protein IucA [Aerobactin siderophore (CVF457)] [Escherichia coli O45:K1:H7 str. S88]	1.36333163487813e-07
+VFG035187(gi:117625047) (APECO1_3712) ATPase [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	4.30776951166069e-09
+VFG000916(gb|NP_756169) (chuS) heme oxygenase ChuS [Chu (VF0227)] [Escherichia coli CFT073]	2.10011291405017e-06
+VFG035633(gi:222155044) (aec25) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O83:H1 str. LF82]	9.11307470030872e-06
+VFG035944(gi:117625880) (upaG/ehaG) autotransporter/adhesin [UpaG adhesin, trimeric AT (CVF740)] [Escherichia coli APEC O1]	8.43658701400342e-08
+VFG000871(gb|NP_757239) (fimB) Type 1 fimbriae Regulatory protein fimB [Type 1 fimbriae (VF0221)] [Escherichia coli CFT073]	0.000147824582782757
+VFG035629(gi:386612385) (aec25) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli UMNK88]	3.26510585168249e-19
+VFG034719(gi:387614643) (ibeC) hypothetical protein [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli O78:H11:K80 str. H10407]	1.67938085606613e-18
+VFG035970(gi:386638926) (upaH) EntS/YbdA MFS transporter [UpaH, AIDA-I type (CVF741)] [Escherichia coli ABU 83972]	3.0753321753863e-19
+VFG043979(gi:145567) (cba) colicin B [colicin B (TX380)] [Escherichia coli]	1.20642760077341e-06
+VFG035144(gi:386640297) (ECABU_c30910) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	6.99687446243498e-06
+VFG035112(gi:386640295) (ECABU_c30890) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	2.96987082444135e-19
+VFG000876(gb|NP_757244) (fimD) Outer membrane usher protein fimD precursor [Type 1 fimbriae (VF0221)] [Escherichia coli CFT073]	8.13531978938221e-07
+VFG034676(gi:157156221) (ibeB) copper/silver efflux system outer membrane protein CusC [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli E24377A]	6.71994731994587e-11
+VFG018207(gi:26246301) (ecpB) Hypothetical protein yagY precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli CFT073]	1.29884672980855e-07
+VFG012459(gi:26247147) (agn43) Antigen 43 precursor [Antigen 43, AIDA-I type (CVF451)] [Escherichia coli CFT073]	2.4213224580513e-13
+VFG042389(gb|YP_540131) (sfaY) regulatory protein SfaY [S fimbriae (VF0222)] [Escherichia coli UTI89]	6.9344072539753e-05
+VFG012625(gi:91213010) (chuY) hypothetical protein [Hemin uptake (CVF460)] [Escherichia coli UTI89]	0.00470498628814392
+VFG035102(gi:26249221) (c3386) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	1.04306465129505e-12
+VFG034214(gi:218534497) (sitB) SitB protein, iron transport protein, ATP-binding component [Iron/managanease transport (CVF459)] [Escherichia coli O45:K1:H7 str. S88]	0.000178543580506947
+VFG035713(gi:117622511) (APECO1_1761) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	7.70622066135308e-15
+VFG033239(gi:386632331) (fimI) fimbrin-like protein fimI [Type I fimbriae (CVF426)] [Escherichia coli str. clone D i2]	4.34330680417466e-09
+VFG012486(gi:91213874) (hlyA) hemolysin A [Alpha-hemolysin (CVF453)] [Escherichia coli UTI89]	0.00736666044794468
+VFG035810(gi:110640447) (aec16) hemolysin co-regulated protein [ACE T6SS (CVF736)] [Escherichia coli 536]	1.18955164310078e-07
+VFG033932(gi:386638510) (iroB) putative glucosyltransferase [Salmochelin siderophore (CVF456)] [Escherichia coli ABU 83972]	0.00803113303121247
+VFG012295(gi:110644758) (fimC) chaperone protein FimC precursor [Type I fimbriae (CVF426)] [Escherichia coli 536]	1.40512622238375e-07
+VFG033903(gi:386641993) (cnf1) cytotoxic necrotizing factor 1 [Cytotoxic necrotizing factor 1 (CVF454)] [Escherichia coli ABU 83972]	8.98410966458894e-08
+VFG012581(gi:26247466) (sitC) SitC protein [Iron/managanease transport (CVF459)] [Escherichia coli CFT073]	0.00873180187408309
+VFG045992 (hofB) hypothetical protein [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli CFT073]	2.90880447039897e-16
+VFG049162(gb|YP_006635488.1) (clbP) precolibactin peptidase ClbP [Colibactin (VF0573)] [Klebsiella pneumoniae subsp. pneumoniae 1084]	6.41226903676789e-08
+VFG035836(gi:117622516) (aec15) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	0.0024554822680751
+VFG012480(gi:91213873) (hlyB) hemolysin secretion protein HlyB [Alpha-hemolysin (CVF453)] [Escherichia coli UTI89]	0.000883179055164378
+VFG042590(gi:46487739) (stgA) StgA [Stg fimbriae (AI047)] [Escherichia coli O78:K80:H9 chi7122]	9.98327561730864e-07
+VFG012474(gi:91213872) (hlyD) hemolysin D [Alpha-hemolysin (CVF453)] [Escherichia coli UTI89]	0.00455482053131324
+VFG035774(gi:387605700) (aec18) putative type VI secretion system protein [ACE T6SS (CVF736)] [Escherichia coli O44:H18 042]	0.00122006773915208
+VFG035971(gi:386629132) (upaH) putative autotransporter/adhesin [UpaH, AIDA-I type (CVF741)] [Escherichia coli str. clone D i2]	3.87882426176886e-05
+VFG012590(gi:88770311) (sitD) SitD [Iron/managanease transport (CVF459)] [Escherichia coli APEC O1]	0.00490966974429069
+VFG012505(gb|NP_753166) (iroD) esterase [Salmochelin (IA013)] [Escherichia coli CFT073]	0.00035577126120583
+VFG035945(gi:91213116) (upaG/ehaG) autotransport adhesin [UpaG adhesin, trimeric AT (CVF740)] [Escherichia coli UTI89]	0.00614249562152502
+VFG033935(gi:386598813) (iroB) IroB protein [Salmochelin siderophore (CVF456)] [Escherichia coli O18:K1:H7 str. IHE3034]	2.87136905556027e-05
+VFG034311(gi:218707132) (chuW) coproporphyrinogen III oxidase [Hemin uptake (CVF460)] [Escherichia coli O17:K52:H18 str. UMN026]	0.00111679732438849
+VFG045974 (hofB) protein transport protein HofB-like protein [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli VR50]	0.00404377690404312
+VFG012351(gi:91213983) (ibeA) invasion protein IbeA [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli UTI89]	0.00395271966329126
+VFG018230(gi:91209351) (ecpE) hypothetical protein YagV precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli UTI89]	0.00172544995645955
+VFG045825 (upaC) autotransporter protein UpaC [EhaB, AIDA-I type (CVF744)] [Escherichia coli O25b:H4-ST131]	0.00505739373924468
+VFG035866(gi:91209303) (UTI89_C0255) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli UTI89]	0.000234511052566039
+VFG001446(gb|YP_540124) (sfaA) S-fimbrial major subunit SfaA [S fimbriae (VF0222)] [Escherichia coli UTI89]	1.6958892707351e-05
+VFG012575(gi:88770314) (sitA) SitA [Iron/managanease transport (CVF459)] [Escherichia coli APEC O1]	0.0028325627830416
+VFG042568(gi:26247120) (focY) hypothetical protein [F1C pili (AI043)] [Escherichia coli CFT073]	0.0017500911779204
+VFG040953(gi:157154920) (gspF) general secretion pathway protein F [gsp (SS206)] [Escherichia coli E24377A]	9.19518784393426e-05
+VFG046030 (hofC) type IV pilin biogenesis protein [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli CFT073]	7.05246590090844e-07
+VFG000875(gb|NP_757243) (fimC) Chaperone protein fimC precursor [Type 1 fimbriae (VF0221)] [Escherichia coli CFT073]	1.24021626339495e-05
+VFG012613(gi:91213008) (chuW) putative oxygen independent coproporphyrinogen III oxidase [Hemin uptake (CVF460)] [Escherichia coli UTI89]	3.06593262987735e-06
+VFG018198(gi:16128278) (ecpA) conserved protein [E. coli common pilus (ECP) (CVF625)] [Escherichia coli str. K-12 substr. MG1655]	0.00654325837869662
+VFG033215(gi:386622102) (fimA) Putative type 1 fimbriae major subunit FimA [Type I fimbriae (CVF426)] [Escherichia coli NA114]	0.000316883827908415
+VFG012543(gi:26248275) (ybtA) Putataive AraC type regulator [yersiniabactin (IA006)] [Escherichia coli CFT073]	0.000332002916262782
+VFG035254(gi:117625056) (APECO1_3702) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	4.3020661168498e-06
+VFG012263(gi:16132133) (fimB) tyrosine recombinase/inversion of on/off regulator of fimA [Type I fimbriae (CVF426)] [Escherichia coli str. K-12 substr. MG1655]	0.000178543580506947
+VFG035601(gi:387605693) (aec26) putative type VI secretion system protein [ACE T6SS (CVF736)] [Escherichia coli O44:H18 042]	0.000951613199597981
+VFG034655(gi:117622795) (ibeB) copper/silver efflux system outer membrane protein CusC [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli APEC O1]	0.00985778935823319
+VFG036074(gi:117622396) (usp) uropathogenic specific protein [Colicin-like Usp (CVF754)] [Escherichia coli APEC O1]	3.26230414664472e-06
+VFG033908(gi:386638506) (iroN) TonB dependent outer membrane siderophore receptor IroN [Salmochelin siderophore (CVF456)] [Escherichia coli ABU 83972]	2.49247226641451e-06
+VFG034365(gi:218707135) (chuU) putative hemin transport system permease [Hemin uptake (CVF460)] [Escherichia coli O17:K52:H18 str. UMN026]	1.22377966896244e-05
+VFG035575(gi:387605692) (aec27/clpV) putative type VI secretion system protein [ACE T6SS (CVF736)] [Escherichia coli O44:H18 042]	0.00181961464429977
+VFG012573(gi:91210366) (sitA) putative iron transport protein, periplasmic-binding protein SitA [Iron/managanease transport (CVF459)] [Escherichia coli UTI89]	0.00224394116723634
+VFG033987(gi:386640481) (iucB) aerobactin siderophore biosynthesis protein IucB [Aerobactin siderophore (CVF457)] [Escherichia coli ABU 83972]	1.75080162637167e-07
+VFG034717(gi:218707582) (ibeC) hypothetical protein [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli O17:K52:H18 str. UMN026]	0.000332002916262782
+VFG012457(gi:91210167) (cah) putative autotransporter [Cah, AIDA-I type (CVF745)] [Escherichia coli UTI89]	0.000158807325544623
+VFG034686(gi:161486035) (ibeC) hypothetical protein [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli CFT073]	1.16411817254783e-05
+VFG035714(gi:91209296) (UTI89_C0248) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli UTI89]	0.0051994073019652
+VFG035122(gi:110642957) (ECP_2802) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli 536]	7.91994569079749e-15
+VFG034692(gi:91213503) (ibeC) hypothetical protein [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli UTI89]	1.597377100652e-19
+VFG034611(gi:218701868) (cfaA) putative fimbrial protein [CFA/I fimbriae (CVF684)] [Escherichia coli O7:K1 str. IAI39]	4.24903950086862e-06
+VFG018218(gi:16128275) (ecpD) predicted receptor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli str. K-12 substr. MG1655]	0.000374577772981836
+VFG046004 (hofB) GspE family protein HofB [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.000266220916588489
+VFG035117(gi:386600808) (ECOK1_3194) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.00798792049790488
+VFG035291(gi:218559820) (ECS88_3103) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O45:K1:H7 str. S88]	0.0011413580389156
+VFG035856(gi:110640449) (aec14) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 536]	1.17464317163769e-06
+VFG046032 (hofC) type IV pilin biogenesis protein [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli UTI89]	3.39674749261785e-11
+VFG018228(gi:26246298) (ecpE) Hypothetical protein yagV precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli CFT073]	1.1816977804543e-12
+VFG042092(gi:15832970) (eprK) EprK [ETT2 (SS017)] [Escherichia coli O157:H7 str. Sakai]	7.60321915292056e-05
+VFG035298(gi:117625062) (APECO1_3696) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	0.00103230785683223
+VFG012545(gi:91211198) (ybtA) putative AraC type regulator [Yersiniabactin siderophore (CVF458)] [Escherichia coli UTI89]	1.37922779068183e-05
+VFG034566(gi:387610830) (eaeH) putative adhesin/invasin [EaeH (CVF679)] [Escherichia coli O78:H11:K80 str. H10407]	1.96114128301869e-06
+VFG012608(gi:117625784) (chuT) putative periplasmic binding protein ChuT [Hemin uptake (CVF460)] [Escherichia coli APEC O1]	2.49247226641451e-06
+VFG034238(gi:218704667) (sitD) iron transport protein, inner membrane component [Iron/managanease transport (CVF459)] [Escherichia coli O17:K52:H18 str. UMN026]	0.000856092536776038
+VFG000915(gb|NP_753159) (focH) F1C Putative fimbrial adhesin precursor [F1C fimbriae (VF0224)] [Escherichia coli CFT073]	5.08703957586984e-10
+VFG046029 (hofC) protein transport protein HofC [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli O44:H18 042]	7.81147929800664e-08
+VFG018214(gi:26246300) (ecpC) Hypothetical protein yagX precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli CFT073]	1.40432808409155e-07
+VFG035626(gi:387605694) (aec25) putative type VI secretion system protein [ACE T6SS (CVF736)] [Escherichia coli O44:H18 042]	3.32037601304256e-08
+VFG045900 (elfC) putative outer membrane usher protein ElfC [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli VR50]	3.06504566172153e-07
+VFG034347(gi:218707134) (chuY) hypothetical protein [Hemin uptake (CVF460)] [Escherichia coli O17:K52:H18 str. UMN026]	1.99004485293974e-16
+VFG035296(gi:26249236) (c3401) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	2.50592461047659e-19
+VFG034534(gi:218557206) (ecpE) hypothetical protein [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O45:K1:H7 str. S88]	3.51968515183987e-18
+VFG035510(gi:110640435) (aec29) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 536]	8.8469086123039e-06
+VFG018223(gi:91209352) (ecpD) hypothetical protein YagW [E. coli common pilus (ECP) (CVF625)] [Escherichia coli UTI89]	0.00162097176350315
+VFG035604(gi:386612384) (aec26) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli UMNK88]	0.00323464895281304
+VFG035156(gi:91212188) (UTI89_C3194) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli UTI89]	0.000106015252986129
+VFG035730(gi:218557164) (ECS88_0243) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O45:K1:H7 str. S88]	9.84730976282909e-06
+VFG012319(gi:16132141) (fimH) minor component of type 1 fimbriae [Type I fimbriae (CVF426)] [Escherichia coli str. K-12 substr. MG1655]	0.000106041259718556
+VFG045878 (elfD) putative fimbrial chaperone protein ElfD [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli VR50]	9.31309144389771e-06
+VFG034198(gi:386618823) (sitA) Iron ABC transporter substrate binding component [Iron/managanease transport (CVF459)] [Escherichia coli NA114]	3.46924640205033e-15
+VFG035511(gi:117622503) (aec29) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	6.78746199910381e-08
+VFG043982(gi:1124900) (cka) colicin K [colicin K (TX385)] [Escherichia coli str. K49]	6.29073317628318e-10
+VFG012631(gi:91213011) (chuU) putative permease of iron compound ABC transport system [Hemin uptake (CVF460)] [Escherichia coli UTI89]	1.36647431279901e-10
+VFG012283(gi:117626622) (fimA) type 1 fimbriae major subunit FimA [Type I fimbriae (CVF426)] [Escherichia coli APEC O1]	7.11390956606824e-17
+VFG033817(gi:386605757) (vat) Vacuolating autotransporter toxin [Vacuolating autotransporter gene (CVF445)] [Escherichia coli UM146]	1.09799631557555e-06
+VFG045846 (sitB) manganese/iron transport system ATP-binding protein [Iron/managanease transport (CVF459)] [Escherichia coli O25b:H4-ST131]	0.00157339121717786
+VFG035292(gi:386600824) (ECOK1_3211) type VI secretion protein [SCI-I T6SS (CVF734)] [Escherichia coli O18:K1:H7 str. IHE3034]	6.0111032991131e-05
+VFG012507(gi:91210149) (iroD) IroD protein [Salmochelin siderophore (CVF456)] [Escherichia coli UTI89]	0.000162550705203211
+VFG012305(gi:16132139) (fimF) minor component of type 1 fimbriae [Type I fimbriae (CVF426)] [Escherichia coli str. K-12 substr. MG1655]	0.000108968999504645
+VFG035461(gi:110640433) (aec31) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 536]	0.00122345866240343
+VFG033111(gi:218706493) (papK) Fimbrial adapter PapK [P fimbriae (CVF425)] [Escherichia coli O17:K52:H18 str. UMN026]	0.000192027744689423
+VFG012586(gi:26247465) (sitD) SitD protein [Iron/managanease transport (CVF459)] [Escherichia coli CFT073]	0.000103209725684346
+VFG035803(gi:218557167) (aec17) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O45:K1:H7 str. S88]	5.75911287211236e-08
+VFG012355(gi:117625198) (tia) Tia invasion determinant [Tia/Hek (CVF430)] [Escherichia coli APEC O1]	0.000946859113067056
+VFG012275(gi:91213958) (fimE) type 1 fimbriae regulatory protein FimE [type 1 fimbriae (AI002)] [Escherichia coli UTI89]	9.20951356239803e-05
+VFG012633(gi:26250982) (ireA) Putative iron-regulated outer membrane virulence protein [Iron-regulated element (CVF461)] [Escherichia coli CFT073]	9.39399672411373e-05
+VFG034492(gi:260853520) (ecpD) hypothetical protein [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O26:H11 str. 11368]	0.0012646425427495
+VFG000938(gb|NP_755500) (iucC) aerobactin siderophore biosynthesis protein IucC [Aerobactin (VF0229)] [Escherichia coli CFT073]	3.46924640205033e-15
+VFG040946(gi:157154814) (gspM) putative general secretion pathway protein YghD [gsp (SS206)] [Escherichia coli E24377A]	2.98355022163793e-07
+VFG000912(gb|NP_753156) (focD) F1C fimbrial usher [F1C fimbriae (VF0224)] [Escherichia coli CFT073]	2.68504608095031e-12
+VFG012310(gi:91213963) (fimF) type 1 fimbriae minor subunit precursor FimF [type 1 fimbriae (AI002)] [Escherichia coli UTI89]	3.28105489112057e-13
+VFG012233(gi:117625205) (papJ) PapJ protein [P fimbriae (CVF425)] [Escherichia coli APEC O1]	4.63232278500524e-12
+VFG035155(gi:117625045) (APECO1_3714) outer membrane protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	4.23195740915669e-05
+VFG045865 (ycbQ) fimbrial-like adhesin protein [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli O103:H2 str. 12009]	0.00199647428487815
+VFG012602(gi:117625783) (chuA) outer membrane heme/hemoglobin receptor ChuA [Hemin uptake (CVF460)] [Escherichia coli APEC O1]	0.00327013555803595
+VFG033818(gi:222155089) (vat) Haemoglobin protease [Vacuolating autotransporter gene (CVF445)] [Escherichia coli O83:H1 str. LF82]	6.41226903676789e-08
+VFG033197(gi:218561489) (fimE) tyrosine recombinase [Type I fimbriae (CVF426)] [Escherichia coli O45:K1:H7 str. S88]	8.17901588119585e-05
+VFG035275(gi:386640308) (ECABU_c31030) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	1.0433023754083e-08
+VFG035579(gi:218557158) (aec27/clpV) ATP-dependent Clp proteinase Aec27 ATP-binding chain, with chaperone activity [ACE T6SS (CVF736)] [Escherichia coli O45:K1:H7 str. S88]	1.47973709811976e-08
+VFG042390(gb|YP_540132) (sfaX) regulatory protein SfaX [S fimbriae (VF0222)] [Escherichia coli UTI89]	3.15705979127509e-09
+VFG012270(gi:16132134) (fimE) tyrosine recombinase/inversion of on/off regulator of fimA [Type I fimbriae (CVF426)] [Escherichia coli str. K-12 substr. MG1655]	1.09740732445614e-08
+VFG034635(gi:218701866) (cfaC) hypothetical protein [CFA/I fimbriae (CVF684)] [Escherichia coli O7:K1 str. IAI39]	1.68418974328663e-08
+VFG018209(gi:91209354) (ecpB) hypothetical protein YagY precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli UTI89]	7.06010792057163e-10
+VFG040954(gi:157159001) (gspE) general secretory pathway protein E [gsp (SS206)] [Escherichia coli E24377A]	6.1129280296544e-05
+VFG033234(gi:410480369) (fimI) long polar fimbrial protein LpfA [Type I fimbriae (CVF426)] [Escherichia coli O104:H4 str. 2009EL-2050]	4.403258254773e-08
+VFG033929(gi:386598812) (iroC) ABC transporter ATP-binding protein [Salmochelin siderophore (CVF456)] [Escherichia coli O18:K1:H7 str. IHE3034]	1.98983962621168e-07
+VFG012248(gi:117625208) (papH) minor pilin subunit PapH [P fimbriae (CVF425)] [Escherichia coli APEC O1]	4.87053682309303e-20
+VFG034547(gi:91209367) (eaeH) attaching and effacing protein, pathogenesis factor [EaeH (CVF679)] [Escherichia coli UTI89]	1.33896519758631e-07
+VFG012206(gi:110644638) (papX) PapX protein [P fimbriae (CVF425)] [Escherichia coli 536]	1.98217501143621e-09
+VFG033168(gi:260847128) (fimB) tyrosine recombinase/inversion of on/off regulator of fimA [Type I fimbriae (CVF426)] [Escherichia coli O103:H2 str. 12009]	3.9444089738584e-17
+VFG033407(gi:386638502) (focH) S-fimbrial adhesin protein SfaH [F1C fimbriae (CVF428)] [Escherichia coli ABU 83972]	0.00327013555803595
+VFG045916 (elfG) putative fimbrial-like protein ElfG [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli VR50]	8.42959403836009e-09
+VFG042364(gi:3288154) (hbp) haemoglobin protease [Hbp (hemoglobin-binding protease) (SS074)] [Escherichia coli O8:K43 EB1]	5.07563838094158e-10
+VFG034293(gi:218707131) (chuT) putative periplasmic binding protein [Hemin uptake (CVF460)] [Escherichia coli O17:K52:H18 str. UMN026]	5.61563994042913e-08
+VFG035503(gi:218557155) (aec30) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O45:K1:H7 str. S88]	1.32438594959965e-08
+VFG000911(gb|NP_753155) (focC) F1C periplasmic chaperone [F1C fimbriae (VF0224)] [Escherichia coli CFT073]	0.00930913969936503
+VFG000913(gb|NP_753157) (focF) F1C minor fimbrial subunit F precursor [F1C fimbriae (VF0224)] [Escherichia coli CFT073]	8.2395755864655e-05
+VFG033825(gi:386630755) (sat) secreted auto transpoter toxin [Sat (CVF448)] [Escherichia coli str. clone D i2]	4.23011824104528e-05
+VFG012508(gi:88770273) (iroD) IroD [Salmochelin (IA014)] [Escherichia coli APEC O1]	1.10056937519364e-05
+VFG035681(gi:218557162) (aec23) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O45:K1:H7 str. S88]	2.83032493786654e-08
+VFG035682(gi:386597971) (aec23) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O18:K1:H7 str. IHE3034]	1.38500777915252e-17
+VFG000872(gb|NP_757240) (fimE) Type 1 fimbriae Regulatory protein fimE [Type 1 fimbriae (VF0221)] [Escherichia coli CFT073]	3.1582601893125e-16
+VFG035488(gi:91209287) (aec30) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli UTI89]	1.41854252086977e-14
+VFG033923(gi:386598811) (iroD) IroD protein [Salmochelin siderophore (CVF456)] [Escherichia coli O18:K1:H7 str. IHE3034]	4.6289256738195e-09
+VFG035552(gi:386612382) (aec28) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli UMNK88]	0.000509845239257286
+VFG018216(gi:91209353) (ecpC) hypothetical protein YagX precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli UTI89]	1.22234803985083e-05
+VFG034677(gi:387611073) (ibeB) cation efflux system protein [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli O78:H11:K80 str. H10407]	0.00240736633193153
+VFG036008(gi:443616396) (ehaB) flagellar protein [EhaB, AIDA-I type (CVF744)] [Escherichia coli O78:H18 str. WS3294A]	0.00187712883737882
+VFG035123(gi:117625043) (APECO1_3716) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	0.00122006773915208
+VFG035245(gi:386630566) (i02_3119) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli str. clone D i2]	0.000219833223882982
+VFG012284(gi:90111729) (fimI) fimbrial protein involved in type 1 pilus biosynthesis [Type I fimbriae (CVF426)] [Escherichia coli str. K-12 substr. MG1655]	2.67025653006924e-06
+VFG046071 (csgD) csgBAC operon transcriptional regulatory protein [Curli fibers (CVF822)] [Escherichia coli VR50]	1.13927392071687e-07
+VFG035960(gi:386621289) (upaG/ehaG) hypothetical protein [UpaG adhesin, trimeric AT (CVF740)] [Escherichia coli NA114]	0.00292016164584701
+VFG033420(gi:386627097) (tia) Tia invasion determinant [Tia/Hek (CVF430)] [Escherichia coli O7:K1 str. CE10]	5.3490401040611e-06
+VFG035561(gi:117622505) (aec27/clpV) ATPase [AEC (SS184)] [Escherichia coli APEC O1]	7.43652498578714e-08
+VFG034429(gi:215485399) (ecpB) chaperone [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O127:H6 str. E2348/69]	4.5802182270028e-08
+VFG033907(gi:386599761) (cdtC) cytolethal distending toxin, subunit C [Cytolethal distending toxin (CVF455)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.000492996368060827
+VFG036001(gi:387605878) (ehaB) autotransporter [EhaB, AIDA-I type (CVF744)] [Escherichia coli O44:H18 042]	0.000120338028588113
+VFG034647(gi:218701865) (cfaD) putative minor pilin and initiator [CFA/I fimbriae (CVF684)] [Escherichia coli O7:K1 str. IAI39]	0.000556505485222395
+VFG012296(gi:91213961) (fimC) periplasmic chaperone protein FimC precursor [type 1 fimbriae (AI002)] [Escherichia coli UTI89]	8.37503867011012e-20
+VFG033826(gi:218706521) (sat) Serine protease [Sat (CVF448)] [Escherichia coli O17:K52:H18 str. UMN026]	2.89370370091949e-20
+VFG035248(gi:386600817) (ECOK1_3204) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O18:K1:H7 str. IHE3034]	2.64494469785766e-16
+VFG035263(gi:386600818) (ECOK1_3205) ImpA-like protein [SCI-I T6SS (CVF734)] [Escherichia coli O18:K1:H7 str. IHE3034]	3.46187592099989e-05
+VFG034228(gi:386598999) (sitC) iron chelate ABC transporter, permease protein [Iron/managanease transport (CVF459)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.00529015101175807
+VFG012630(gi:110643751) (chuU) putative permease of iron compound ABC transport system [Hemin uptake (CVF460)] [Escherichia coli 536]	0.00180300627247769
+VFG012977(gi:82543042) (entA) 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [Enterobactin synthesis (CVF477)] [Shigella boydii Sb227]	0.00687599558852887
+VFG035476(gi:387605688) (aec31) putative type VI secretion system protein [ACE T6SS (CVF736)] [Escherichia coli O44:H18 042]	0.00961566183963006
+VFG045887 (ycbR) periplasmic pilin chaperone [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli O103:H2 str. 12009]	0.00110867636427156
+VFG036059(gi:387611746) (hlyE/clyA) hemolysin/cytolysin A [Hemolysin/cytolysin A (CVF750)] [Escherichia coli O78:H11:K80 str. H10407]	0.00125459863466078
+VFG033843(gi:386638529) (agn43) putative antigen 43 [Antigen 43, AIDA-I type (CVF451)] [Escherichia coli ABU 83972]	0.000751792376274857
+VFG035103(gi:110642956) (ECP_2801) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli 536]	0.00694850972845527
+VFG012582(gi:110641372) (sitC) iron transport protein, inner membrane component [Iron/managanease transport (CVF459)] [Escherichia coli 536]	0
+VFG033980(gi:260867381) (iucB) siderophore biosynthesis protein [Aerobactin siderophore (CVF457)] [Escherichia coli O111:H- str. 11128]	0.00285118825770887
+VFG035289(gi:386630569) (i02_3122) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli str. clone D i2]	0.0028325627830416
+VFG045817 (EC958_5043) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O25b:H4-ST131]	0.00816719800463865
+VFG000935(gb|NP_753164) (iroN) salmochelin receptor IroN [IroN (VF0230)] [Escherichia coli CFT073]	0.000826063143975813
+VFG035612(gi:110640439) (aec25) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 536]	0.00102709381031919
+VFG033876(gi:386641995) (hlyD) hemolysin secretion protein D [Alpha-hemolysin (CVF453)] [Escherichia coli ABU 83972]	0.000376230645812427
+VFG034530(gi:218703569) (ecpE) hypothetical protein [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O17:K52:H18 str. UMN026]	0.000293589571246756
+VFG012337(gb|YP_540127) (sfaF) S fimbriae outer membrane usher SfaF [S fimbriae (VF0222)] [Escherichia coli UTI89]	1.22409841068467e-07
+VFG033911(gi:386598809) (iroN) IroN protein [Salmochelin siderophore (CVF456)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.00490517810109709
+VFG034564(gi:218703583) (eaeH) putative adhesin [EaeH (CVF679)] [Escherichia coli O17:K52:H18 str. UMN026]	0.00596661059724357
+VFG035938(gi:218707301) (air/eaeX) hypothetical protein [Enteroaggregative immunoglobulin repeat protein (CVF739)] [Escherichia coli O17:K52:H18 str. UMN026]	0.000124940054930811
+VFG012303(gi:91213962) (fimD) outer membrane usher protein FimD precursor [type 1 fimbriae (AI002)] [Escherichia coli UTI89]	8.35369176249662e-07
+VFG012601(gi:91213002) (chuA) outer membrane hemin receptor ChuA [Hemin uptake (CVF460)] [Escherichia coli UTI89]	7.05443792818887e-08
+VFG035104(gi:117625042) (APECO1_3717) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	0.00113359674123197
+VFG035249(gi:386603121) (UM146_02430) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli UM146]	5.79596220077882e-09
+VFG035462(gi:117622501) (aec31) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	7.58679073988239e-06
+VFG035527(gi:218557156) (aec29) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O45:K1:H7 str. S88]	0.000280804471186289
+VFG033415(gi:218702831) (tia) Tia invasion determinant [Tia/Hek (CVF430)] [Escherichia coli O7:K1 str. IAI39]	0.008528643722731
+VFG012277(gi:16132135) (fimA) major type 1 subunit fimbrin (pilin) [Type I fimbriae (CVF426)] [Escherichia coli str. K-12 substr. MG1655]	0.00108890227312577
+VFG033411(gi:222159068) (ibeA) Invasion protein IbeA [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli O83:H1 str. LF82]	2.18336068139737e-12
+VFG036078(gi:386617620) (usp) hypothetical protein [Colicin-like Usp (CVF754)] [Escherichia coli NA114]	5.01041386145181e-10
+VFG033364(gi:386642066) (fimH) type 1 fimbiral adhesin FimH [Type I fimbriae (CVF426)] [Escherichia coli ABU 83972]	4.23011824104528e-05
+VFG033104(gi:218559965) (papE) Fimbrial tip protein PapE [P fimbriae (CVF425)] [Escherichia coli O45:K1:H7 str. S88]	0.00580966040459602
+VFG035889(gi:117622522) (aec7) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	0.00808673053873382
+VFG040956(gi:157156659) (gspC) putative type II secretion protein GspC [gsp (SS206)] [Escherichia coli E24377A]	3.08645477866567e-05
+VFG001713(gb|NP_755457) (papX) PapX protein regulates flagellum synthesis to repress motility [P fimbriae (CVF425)] [Escherichia coli CFT073]	0.00051869313809453
+VFG012448(gi:117622559) (vat) vacuolating autotransporter [Vat (SS080)] [Escherichia coli APEC O1]	0.00580966040459602
+VFG033322(gi:443615873) (fimF) minor component of type 1 fimbriae [Type I fimbriae (CVF426)] [Escherichia coli O78:H18 str. WS3294A]	9.50761501929049e-05
+VFG012587(gi:110641371) (sitD) iron transport protein, inner membrane component [Iron/managanease transport (CVF459)] [Escherichia coli 536]	0.00111509865973934
+VFG035160(gi:386640298) (ECABU_c30920) OmpA family protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	0.00359470479058591
+VFG000904(gb|NP_752330) (vat) Haemoglobin protease [Tsh (VF0233)] [Escherichia coli CFT073]	0.00120091654515238
+VFG035535(gi:117622504) (aec28) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	0.00876577337013812
+VFG035517(gi:260842448) (aec29) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O103:H2 str. 12009]	1.75897424464383e-05
+VFG012555(gi:26248282) (ybtU) hypothetical protein [yersiniabactin (IA006)] [Escherichia coli CFT073]	0.000140398171205586
+VFG012576(gi:26247467) (sitB) SitB protein [Iron/managanease transport (CVF459)] [Escherichia coli CFT073]	1.13157436179305e-07
+VFG012632(gi:117625788) (chuU) putative permease of iron compound ABC transport system [Hemin uptake (CVF460)] [Escherichia coli APEC O1]	1.25593525081725e-16
+VFG033816(gi:386598009) (vat) hemoglobin-binding protease Hbp [Vacuolating autotransporter gene (CVF445)] [Escherichia coli O18:K1:H7 str. IHE3034]	5.51140499217494e-13
+VFG012281(gi:110644756) (fimA) type-1 fimbrial major subunit [Type I fimbriae (CVF426)] [Escherichia coli 536]	6.43050468011331e-11
+VFG042569(gi:26247121) (focX) putative regulatory protein [F1C pili (AI043)] [Escherichia coli CFT073]	0.00775213923907319
+VFG033993(gi:387615312) (iucB) aerobactin siderophore biosynthesis protein IucB [Aerobactin siderophore (CVF457)] [Escherichia coli O83:H1 str. NRG 857C]	1.35171692593079e-05
+VFG033906(gi:386599762) (cdtB) cytolethal distending toxin, subunit B [Cytolethal distending toxin (CVF455)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.00111902917856796
+VFG035105(gi:91212185) (UTI89_C3191) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli UTI89]	1.71550666954863e-06
+VFG012212(gi:91213835) (papG) p pilus adhesin PapG protein [pyelonephritis-associated pilus, Pap pilus (AI001)] [Escherichia coli UTI89]	0.00264249348140467
+VFG035284(gi:117625061) (APECO1_3697) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	0.000883179055164378
+VFG033135(gi:386641965) (papH) minor pilin subunit PapH [P fimbriae (CVF425)] [Escherichia coli ABU 83972]	0.00809366075756448
+VFG035086(gi:91212184) (UTI89_C3190) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli UTI89]	0.000538691675045834
+VFG035269(gi:26249235) (c3400) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	1.2353359469321e-08
+VFG045818 (EC958_4611) hypothetical protein [Temperature-sensitive hemagglutinin (CVF446)] [Escherichia coli O25b:H4-ST131]	0.00386522707209733
+VFG018225(gi:90111108) (ecpE) conserved protein [E. coli common pilus (ECP) (CVF625)] [Escherichia coli str. K-12 substr. MG1655]	0.00035577126120583
+VFG000877(gb|NP_757245) (fimF) FimF protein precursor [Type 1 fimbriae (VF0221)] [Escherichia coli CFT073]	0.00777723915454239
+VFG034234(gi:218700268) (sitD) iron transporter inner membrane component [Iron/managanease transport (CVF459)] [Escherichia coli O7:K1 str. IAI39]	0.000143858654964292
+VFG000909(gb|NP_753153) (focA) F1C major fimbrial subunit precursor [F1C fimbriae (VF0224)] [Escherichia coli CFT073]	9.84515889785234e-06
+VFG035477(gi:218703467) (aec31) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O17:K52:H18 str. UMN026]	9.84515889785234e-06
+VFG012511(gi:91210150) (iroC) IroC protein [Salmochelin siderophore (CVF456)] [Escherichia coli UTI89]	0.00381710560326131
+VFG033928(gi:218534591) (iroC) IroC, ATP binding cassette (ABC) transporter homolog [Salmochelin siderophore (CVF456)] [Escherichia coli O45:K1:H7 str. S88]	0.00754111664509217
+VFG034823(gi:260867911) (espR1) T3SS effector-like protein EspR [EspR1 (CVF696)] [Escherichia coli O111:H- str. 11128]	0.00504237091870501
+VFG035770(gi:410484140) (aec18) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O104:H4 str. 2009EL-2050]	0.00047155736630002
+VFG033142(gi:386641966) (papA) major pilin subunit PapA [P fimbriae (CVF425)] [Escherichia coli ABU 83972]	0.00640696504926011
+VFG012634(gi:117625231) (ireA) iron-regulated element [Iron-regulated element (CVF461)] [Escherichia coli APEC O1]	0.000415164726530215
+VFG012509(gb|NP_753167) (iroC) ATP binding cassette transporter [Salmochelin (IA013)] [Escherichia coli CFT073]	1.60134174689942e-07
+VFG033189(gi:260847129) (fimE) tyrosine recombinase/inversion of on/off regulator of fimA [Type I fimbriae (CVF426)] [Escherichia coli O103:H2 str. 12009]	3.80307073505781e-08
+VFG033927(gi:386628634) (iroC) ABC transporter ATP-binding protein [Salmochelin siderophore (CVF456)] [Escherichia coli str. clone D i2]	0.00220102358791845
+VFG033117(gi:218706494) (papJ) protein PapJ , P pilus assembly [P fimbriae (CVF425)] [Escherichia coli O17:K52:H18 str. UMN026]	1.06368516890157e-06
+VFG035943(gi:110643846) (upaG/ehaG) hemagglutinin/invasin [UpaG adhesin, trimeric AT (CVF740)] [Escherichia coli 536]	0.000316883827908415
+VFG035864(gi:110640450) (ECP_0242) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 536]	6.14974891307741e-05
+VFG033905(gi:386599763) (cdtA) cytolethal distending toxin, subunit A [Cytolethal distending toxin (CVF455)] [Escherichia coli O18:K1:H7 str. IHE3034]	2.44787293053023e-05
+VFG033368(gi:157157381) (fimH) protein FimH [Type I fimbriae (CVF426)] [Escherichia coli E24377A]	0.000163803672918865
+VFG035139(gi:117625044) (APECO1_3715) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli APEC O1]	0.000344179864430718
+VFG000937(gb|NP_755499) (iucD) L-lysine 6-monooxygenase IucD [Aerobactin (VF0229)] [Escherichia coli CFT073]	0.00361227689581965
+VFG033824(gi:386640485) (sat) putative secreted autotransporter toxin sat [Sat (CVF448)] [Escherichia coli ABU 83972]	4.59564096497195e-06
+VFG034678(gi:386612743) (ibeB) cation efflux system protein CusC [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli UMNK88]	1.92466591191265e-09
+VFG035703(gi:157158454) (aec22) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli E24377A]	1.01409900239575e-08
+VFG000921(gb|NP_756178) (chuY) ChuY [Chu (VF0227)] [Escherichia coli CFT073]	0.00307377255227533
+VFG035487(gi:117622502) (aec30) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	5.50617121143311e-05
+VFG035162(gi:386620387) (ECNA114_2857) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli NA114]	9.97232883645751e-06
+VFG035283(gi:110642975) (ECP_2820) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli 536]	2.18485104818023e-05
+VFG034402(gi:215485400) (ecpA) fimbrillin precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O127:H6 str. E2348/69]	5.69431778907144e-05
+VFG035146(gi:386620386) (ECNA114_28561) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli NA114]	0.000617349778722551
+VFG045800 (EC958_5032) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O25b:H4-ST131]	0.000316883827908415
+VFG035124(gi:91212186) (UTI89_C3192) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli UTI89]	0.00304572371448259
+VFG033366(gi:386622108) (fimH) Mannose-specific adhesin FimH [Type I fimbriae (CVF426)] [Escherichia coli NA114]	7.56958801013297e-05
+VFG034207(gi:387606978) (sitB) iron ABC transporter ATP-binding protein [Iron/managanease transport (CVF459)] [Escherichia coli O44:H18 042]	3.55302801547104e-07
+VFG033846(gi:218706548) (agn43) antigen 43 (Ag43) phase-variable biofilm formation autotransporter; CP4-44 prophage [Antigen 43, AIDA-I type (CVF451)] [Escherichia coli O17:K52:H18 str. UMN026]	2.43389611331575e-08
+VFG034275(gi:218707130) (chuA) outer membrane hemin receptor [Hemin uptake (CVF460)] [Escherichia coli O17:K52:H18 str. UMN026]	0.00270822391033267
+VFG045994 (hofB) hypothetical protein [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli UTI89]	0.000707939576967962
+VFG033192(gi:218703011) (fimE) tyrosine recombinase [Type I fimbriae (CVF426)] [Escherichia coli O7:K1 str. IAI39]	7.64782936511768e-06
+VFG035701(gi:387605697) (aec22) putative type VI secretion system protein [ACE T6SS (CVF736)] [Escherichia coli O44:H18 042]	4.60564433632793e-05
+VFG034273(gi:386631409) (chuA) Outer membrane heme/hemoglobin receptor [Hemin uptake (CVF460)] [Escherichia coli str. clone D i2]	1.4960813309609e-05
+VFG033286(gi:386642063) (fimD) outer membrane usher protein FimD [Type I fimbriae (CVF426)] [Escherichia coli ABU 83972]	0.000176731623548691
+VFG012238(gi:117625206) (papD) pilus assembly protein chaperone PapD [P fimbriae (CVF425)] [Escherichia coli APEC O1]	2.25218368219118e-06
+VFG012274(gi:110644754) (fimE) type 1 fimbriae regulatory protein FimE [Type I fimbriae (CVF426)] [Escherichia coli 536]	0.000176731623548691
+VFG045809 (EC958_0639) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O25b:H4-ST131]	7.64782936511768e-06
+VFG045811 (EC958_0641) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O25b:H4-ST131]	2.56104268457379e-05
+VFG034521(gi:410484084) (ecpE) hypothetical protein [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O104:H4 str. 2009EL-2050]	0.00270822391033267
+VFG035726(gi:387605698) (EC042_0221) putative type VI secretion system protein [ACE T6SS (CVF736)] [Escherichia coli O44:H18 042]	5.3490401040611e-06
+VFG033080(gi:386630724) (papX) PapX protein [P fimbriae (CVF425)] [Escherichia coli str. clone D i2]	1.4960813309609e-05
+VFG035556(gi:222155041) (aec28) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O83:H1 str. LF82]	9.0615591783146e-05
+VFG046007 (APECO78_03975) hypothetical protein [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli O78:H18 str. WS3294A]	4.48254277505402e-08
+VFG035253(gi:110642970) (ECP_2815) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli 536]	0.0030498420181226
+VFG012500(gi:88770271) (iroN) IroN [Salmochelin (IA014)] [Escherichia coli APEC O1]	1.77900465670769e-05
+VFG018211(gi:16128276) (ecpC) predicted aromatic compound dioxygenase [E. coli common pilus (ECP) (CVF625)] [Escherichia coli str. K-12 substr. MG1655]	2.80217453486183e-07
+VFG034636(gi:157158530) (cfaC) hypothetical protein [CFA/I fimbriae (CVF684)] [Escherichia coli E24377A]	0.000493612796173554
+VFG034691(gi:117626224) (ibeC) hypothetical protein [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli APEC O1]	0.00255763273349477
+VFG035463(gi:91209286) (aec31) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli UTI89]	2.57800151603061e-05
+VFG034257(gi:218707129) (chuS) Heme oxygenase [Hemin uptake (CVF460)] [Escherichia coli O17:K52:H18 str. UMN026]	9.53236904512006e-05
+VFG033109(gi:386641961) (papK) minor pilin subunit PapK [P fimbriae (CVF425)] [Escherichia coli ABU 83972]	0.000974315064899797
+VFG033086(gi:386641958) (papG) p pilus adhesin PapG protein [P fimbriae (CVF425)] [Escherichia coli ABU 83972]	0.00797092494431875
+VFG035186(gi:110642961) (ECP_2806) CLPA/B-type chaperone protein [SCI-I T6SS (CVF734)] [Escherichia coli 536]	6.88704627857833e-05
+VFG033973(gi:386640482) (iucC) aerobactin siderophore biosynthesis protein IucC [Aerobactin siderophore (CVF457)] [Escherichia coli ABU 83972]	0.000531482190295768
+VFG033917(gi:386598810) (iroE) IroE [Salmochelin siderophore (CVF456)] [Escherichia coli O18:K1:H7 str. IHE3034]	2.44787293053023e-05
+VFG035115(gi:157155143) (EcE24377A_3124) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli E24377A]	0.000974315064899797
+VFG000902(gb|NP_755494) (sat) Aecreted auto transpoter toxin [Sat (VF0231)] [Escherichia coli CFT073]	1.47973709811976e-08
+VFG034684(gi:222155327) (ibeB) Cation efflux system protein cusC [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli O83:H1 str. LF82]	0.000564324287893187
+VFG012529(gi:91211194) (ybtS) putative salicylate synthetase [Yersiniabactin siderophore (CVF458)] [Escherichia coli UTI89]	0.00153965260986846
+VFG018205(gi:16128277) (ecpB) predicted protein [E. coli common pilus (ECP) (CVF625)] [Escherichia coli str. K-12 substr. MG1655]	4.25174320743837e-09
+VFG040947(gi:157156601) (gspL) GspL-like protein [gsp (SS206)] [Escherichia coli E24377A]	0.000378691698399339
+VFG012252(gi:91213843) (papA) major pilin subunit PapA [pyelonephritis-associated pilus, Pap pilus (AI001)] [Escherichia coli UTI89]	0.00099160201111669
+VFG035659(gi:222155045) (aec24) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O83:H1 str. LF82]	0.00099160201111669
+VFG035973(gi:386621850) (espC) Per-activated serine protease autotransporter enterotoxin EspC [EspC, SPATE (CVF742)] [Escherichia coli NA114]	4.85559680590015e-05
+VFG045824 (EC958_4614) serine protease autotransporter protein [EspC, SPATE (CVF742)] [Escherichia coli O25b:H4-ST131]	0.00289817463740073
+VFG033262(gi:218707983) (fimC) chaperone, periplasmic [Type I fimbriae (CVF426)] [Escherichia coli O17:K52:H18 str. UMN026]	0.000126255484005894
+VFG034561(gi:386637726) (eaeH) putative adhesin/invasin [EaeH (CVF679)] [Escherichia coli ABU 83972]	0.00223397715048334
+VFG012449(gi:88770206) (tsh) Tsh [Tsh (temperature-sensitive haemagglutinin) (SS075)] [Escherichia coli APEC O1]	0.00223397715048334
+VFG034030(gi:386639495) (ybtX) putative cytoplasmic transmembrane protein [Yersiniabactin siderophore (CVF458)] [Escherichia coli ABU 83972]	0.00165484293421049
+VFG012607(gi:91213007) (chuT) putative periplasmic binding protein [Hemin uptake (CVF460)] [Escherichia coli UTI89]	3.35488664833529e-05
+VFG018221(gi:26246299) (ecpD) Hypothetical protein yagW [E. coli common pilus (ECP) (CVF625)] [Escherichia coli CFT073]	9.20089031956647e-05
+VFG034199(gi:218704670) (sitA) iron transport protein, periplasmic-binding protein [Iron/managanease transport (CVF459)] [Escherichia coli O17:K52:H18 str. UMN026]	0.00386522707209733
+VFG033144(gi:218706498) (papA) P-fimbriae major subunit [P fimbriae (CVF425)] [Escherichia coli O17:K52:H18 str. UMN026]	2.44787293053023e-05
+VFG033137(gi:218706497) (papH) minor pilin protein PapH [P fimbriae (CVF425)] [Escherichia coli O17:K52:H18 str. UMN026]	0.00812175441063147
+VFG046091 (ECVR50_0247) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli VR50]	1.08932427869083e-06
+VFG000936(gb|NP_755498) (iutA) ferric aerobactin receptor precusor IutA [Aerobactin (VF0229)] [Escherichia coli CFT073]	7.53694712733336e-08
+VFG045913 (UMNK88_1095) outer membrane usher protein FimD [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli UMNK88]	0.000885126830270641
+VFG018191(gi:16128279) (ecpR) predicted regulator [E. coli common pilus (ECP) (CVF625)] [Escherichia coli str. K-12 substr. MG1655]	0.000859250459956819
+VFG000896(gi:26250993) (papD) PapD protein [P fimbriae (VF0220)] [Escherichia coli CFT073]	0.00631239827751867
+VFG036058(gi:218704697) (hlyE/clyA) hemolysin E [Hemolysin/cytolysin A (CVF750)] [Escherichia coli O17:K52:H18 str. UMN026]	0.00631239827751867
+VFG033952(gi:260867383) (iucD) siderophore biosynthesis protein [Aerobactin siderophore (CVF457)] [Escherichia coli O111:H- str. 11128]	0.00168057185010765
+VFG034682(gi:443616608) (ibeB) copper/silver efflux system outer membrane protein CusC [Invasion of brain endothelial cells (Ibes) (CVF429)] [Escherichia coli O78:H18 str. WS3294A]	0.00819207712978181
+VFG033143(gi:386622202) (papA) PapA protein [P fimbriae (CVF425)] [Escherichia coli NA114]	3.2527261908476e-05
+VFG012520(gi:88770303) (iucD) IucD [Aerobactin siderophore (CVF457)] [Escherichia coli APEC O1]	0.00644012783754242
+VFG033131(gi:218559969) (papC) Outer membrane usher protein PapC precursor [P fimbriae (CVF425)] [Escherichia coli O45:K1:H7 str. S88]	0.00139694797272945
+VFG045912 (ETEC_1008) fimbrial outer membrane usher protein [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli O78:H11:K80 str. H10407]	0.00246286335487001
+VFG035276(gi:386630568) (i02_3121) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli str. clone D i2]	0.00352888992656993
+VFG034312(gi:218560578) (chuW) coproporphyrinogen III oxidase [Hemin uptake (CVF460)] [Escherichia coli O45:K1:H7 str. S88]	0.00808673053873382
+VFG035664(gi:117622509) (aec23) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	0.00162097176350315
+VFG036079(gi:218557051) (usp) hypothetical protein [Colicin-like Usp (CVF754)] [Escherichia coli O45:K1:H7 str. S88]	0.00352888992656993
+VFG033088(gi:218706490) (papG) Fimbrial PapG protein [P fimbriae (CVF425)] [Escherichia coli O17:K52:H18 str. UMN026]	0.000108968999504645
+VFG012557(gi:91211201) (ybtU) thiazolinyl-S-HMWP1 reductase [Yersiniabactin siderophore (CVF458)] [Escherichia coli UTI89]	8.01395776624767e-05
+VFG035481(gi:386597963) (aec31) ImpA domain-containing protein [ACE T6SS (CVF736)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.00268310994918007
+VFG035272(gi:260845474) (ECO103_3371) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O103:H2 str. 12009]	0.0024554822680751
+VFG035349(gi:157156697) (EcE24377A_3135) ImpA-related N-terminal domain-containing protein [SCI-I T6SS (CVF734)] [Escherichia coli E24377A]	0.00837515524891913
+VFG034631(gi:410480837) (cfaC) hypothetical protein [CFA/I fimbriae (CVF684)] [Escherichia coli O104:H4 str. 2009EL-2050]	0.000346821471084554
+VFG035154(gi:110642959) (ECP_2804) OmpA family membrane protein [SCI-I T6SS (CVF734)] [Escherichia coli 536]	0.000178262981321521
+VFG034474(gi:218703571) (ecpC) hypothetical protein [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O17:K52:H18 str. UMN026]	0.000346821471084554
+VFG018194(gi:26246303) (ecpR) Hypothetical protein ykgK [E. coli common pilus (ECP) (CVF625)] [Escherichia coli CFT073]	0.000346821471084554
+VFG034343(gi:218702270) (chuY) hypothetical protein [Hemin uptake (CVF460)] [Escherichia coli O7:K1 str. IAI39]	0.00837515524891913
+VFG034382(gi:410484079) (ecpR) transcriptional regulator [E. coli common pilus (ECP) (CVF625)] [Escherichia coli O104:H4 str. 2009EL-2050]	0.000346821471084554
+VFG033413(gi:218698021) (tia) surface protein precursor [Tia/Hek (CVF430)] [Escherichia coli 55989]	0.000104498388667991
+VFG012242(gi:91213841) (papC) outer membrane usher protein PapC precursor [pyelonephritis-associated pilus, Pap pilus (AI001)] [Escherichia coli UTI89]	0.000346821471084554
+VFG046031 (ECP_0106) type IV pilin biogenesis protein [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli 536]	0.000493612796173554
+VFG034070(gi:386599810) (ybtP) YbtP [Yersiniabactin siderophore (CVF458)] [Escherichia coli O18:K1:H7 str. IHE3034]	0.0017500911779204
+VFG034344(gi:386641116) (chuY) hypothetical protein [Hemin uptake (CVF460)] [Escherichia coli ABU 83972]	0.00747231325878396
+VFG034224(gi:386618821) (sitC) Iron transporter inner membrane component [Iron/managanease transport (CVF459)] [Escherichia coli NA114]	0.00223494678643582
+VFG046083 (ECVR50_0239) IcmF-related protein [ACE T6SS (CVF736)] [Escherichia coli VR50]	0.00323464895281304
+VFG018202(gi:110640561) (ecpA) hypothetical protein YagZ precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli 536]	0.00388421693641721
+VFG045975 (hofB) transport protein HofB [Hemorrhagic E.coli pilus (HCP) (CVF825)] [Escherichia coli O25b:H4-ST131]	0.000509845239257286
+VFG012354(gi:91213830) (tia) adhesin/virulence factor Hek [Tia/Hek (CVF430)] [Escherichia coli UTI89]	0.000936866185089043
+VFG012532(gi:110642109) (ybtX) putative cytoplasmic transmembrane protein [Yersiniabactin siderophore (CVF458)] [Escherichia coli 536]	0.00609971733187235
+VFG045791 (csgD) putative 2-component transcriptional regulator for 2nd curli operon [Curli fibers (CVF822)] [Escherichia coli O25b:H4-ST131]	0.00956928205513735
+VFG035475(gi:218693681) (aec31) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli 55989]	0.000755109150942853
+VFG033986(gi:218701707) (iucB) aerobactin siderophore biosynthesis N(6)-hydroxylysine acetylase [Aerobactin siderophore (CVF457)] [Escherichia coli O7:K1 str. IAI39]	0.00127393042100914
+VFG033116(gi:386641962) (papJ) PapJ protein [P fimbriae (CVF425)] [Escherichia coli ABU 83972]	0.0062780009748398
+VFG035865(gi:117622518) (APECO1_1753) hypothetical protein [AEC (SS184)] [Escherichia coli APEC O1]	0.0062780009748398
+VFG045349(gb|YP_002390132) (fdeC) adhesin FdeC [FdeC (VF0506)] [Escherichia coli O45:K1:H7 str. S88]	0
+VFG035262(gi:218559816) (ECS88_3098) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli O45:K1:H7 str. S88]	0
+VFG001447(gb|CAA50007) (cnf1) cytotoxic necrotizing factor 1 [CNF-1 (VF0240)] [Escherichia coli str. E-B35]	0
+VFG012492(gi:91213875) (hlyC) hemolysin C [Alpha-hemolysin (CVF453)] [Escherichia coli UTI89]	0
+VFG035288(gi:386640309) (ECABU_c31040) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	0
+VFG045856 (elfA) fimbrial subunit ElfA [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli VR50]	0
+VFG012606(gi:110643747) (chuT) putative periplasmic binding protein (putative hemin binding protein) [Hemin uptake (CVF460)] [Escherichia coli 536]	0
+VFG045894 (ycbR) putative periplasmic pilin chaperone [E.coli laminin-binding fimbriae (ELF) (CVF824)] [Escherichia coli O7:K1 str. IAI39]	0
+VFG035500(gi:218703468) (aec30) hypothetical protein [ACE T6SS (CVF736)] [Escherichia coli O17:K52:H18 str. UMN026]	0

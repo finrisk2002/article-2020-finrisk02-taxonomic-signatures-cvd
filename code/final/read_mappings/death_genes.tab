@@ -1,0 +1,27 @@
+Gene	Pvalue
+VFG000923(gb|NP_752600) (fepA) ferrienterobactin outer membrane transporter [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.00318606479379081
+VFG044165(gb|NP_752609) (entS) enterobactin exporter, iron-regulated [enterobactin (IA019)] [Escherichia coli CFT073]	0.0014814126151406
+VFG012501(gb|NP_753165) (iroE) esterase [Salmochelin (IA013)] [Escherichia coli CFT073]	0.00240123579270153
+VFG012459(gi:26247147) (agn43) Antigen 43 precursor [Antigen 43, AIDA-I type (CVF451)] [Escherichia coli CFT073]	0.00181321931482725
+VFG035185(gi:26249227) (c3392) ClpB protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	0.00516587704785541
+VFG035970(gi:386638926) (upaH) EntS/YbdA MFS transporter [UpaH, AIDA-I type (CVF741)] [Escherichia coli ABU 83972]	0.00109494227681838
+VFG035971(gi:386629132) (upaH) putative autotransporter/adhesin [UpaH, AIDA-I type (CVF741)] [Escherichia coli str. clone D i2]	0.00276689900809772
+VFG035102(gi:26249221) (c3386) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	0.00109494227681838
+VFG012505(gb|NP_753166) (iroD) esterase [Salmochelin (IA013)] [Escherichia coli CFT073]	0.00109494227681838
+VFG035121(gi:26249222) (c3387) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	0.00523160824246879
+VFG000903(gb|NP_752289) (pic) serine protease precursor [Pic (VF0232)] [Escherichia coli CFT073]	0.00846890896458933
+VFG036076(gi:386637465) (usp) putative S-type colicin [Colicin-like Usp (CVF754)] [Escherichia coli ABU 83972]	0.00318606479379081
+VFG000932(gb|NP_752612) (entE) 2,3-dihydroxybenzoate-AMP ligase component of enterobactin synthase multienzyme complex [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.0043581723459037
+VFG044172(gb|NP_756180) (chuV) ATP-binding hydrophilic protein ChuV [Chu (VF0227)] [Escherichia coli CFT073]	0.00980267546854118
+VFG000929(gb|NP_752599) (entD) phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.00119424974880071
+VFG035204(gi:26249228) (c3393) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	0.00109494227681838
+VFG000927(gi:26246566) (fepE) ferric enterobactin transport protein FepE [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.00109494227681838
+VFG035237(gi:26249233) (c3398) hypothetical protein [SCI-I T6SS (CVF734)] [Escherichia coli CFT073]	0.00386620319294706
+VFG000916(gb|NP_756169) (chuS) heme oxygenase ChuS [Chu (VF0227)] [Escherichia coli CFT073]	0.00927653684401552
+VFG000934(gi:26246575) (entA) 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.00442846163303298
+VFG018207(gi:26246301) (ecpB) Hypothetical protein yagY precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli CFT073]	0.00109494227681838
+VFG033908(gi:386638506) (iroN) TonB dependent outer membrane siderophore receptor IroN [Salmochelin siderophore (CVF456)] [Escherichia coli ABU 83972]	0.00109494227681838
+VFG018214(gi:26246300) (ecpC) Hypothetical protein yagX precursor [E. coli common pilus (ECP) (CVF625)] [Escherichia coli CFT073]	0.00509600538636535
+VFG000931(gb|NP_752611) (entC) isochorismate synthase 1 [Enterobactin (VF0228)] [Escherichia coli CFT073]	0.00730897527297972
+VFG035211(gi:386640301) (ECABU_c30960) VGR-related protein [SCI-I T6SS (CVF734)] [Escherichia coli ABU 83972]	0.00648903379127088
+VFG000911(gb|NP_753155) (focC) F1C periplasmic chaperone [F1C fimbriae (VF0224)] [Escherichia coli CFT073]	0.00109494227681838

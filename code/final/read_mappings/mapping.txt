@@ -1,0 +1,32 @@
+for sample in `awk '{print $1}' samples.txt`
+do
+    if [ "$sample" == "sample" ]; then continue; fi
+    
+    # do the bowtie mapping to get the SAM file:
+    echo $sample
+
+    # Max 1 mismatch per 100 bases in global alignment (score min)
+    # default max penalty for mismatch 6.6 for the two alignments; the higher the more stringent
+
+    ###################################
+    
+    # Global 
+    bowtie2 --threads 20 -x VFDB_for_bowtie2 -1 data/${sample}.R1.trimmed.filtered.fastq.gz -2 data/${sample}.R2.trimmed.filtered.fastq.gz --no-unal --mp 6,6 --score-min L,0,-0.01 -S ~/data/tmp/${sample}.sam
+
+    # Local: many hits
+    # bowtie2 --threads 20 -x VFDB_for_bowtie2 -1 data/${sample}.R1.trimmed.filtered.fastq.gz -2 data/${sample}.R2.trimmed.filtered.fastq.gz --no-unal --mp 6,6 --local -D 10 -R 2 -N 0 -L 22 -i S,1,1.75 -S ~/data/tmp/${sample}.sam    
+
+    ###################################
+    
+    # covert the resulting SAM file to a BAM file:
+    samtools view -F 4 -bS ~/data/tmp/${sample}.sam > ~/data/tmp/${sample}-RAW.bam
+
+    # sort and index the BAM file:
+    samtools sort ~/data/tmp/${sample}-RAW.bam -o ~/data/tmp/BAM/${sample}.bam
+    samtools index ~/data/tmp/BAM/${sample}.bam
+
+    # remove temporary files:
+    rm ~/data/tmp/${sample}.sam
+    rm ~/data/tmp/${sample}-RAW.bam
+
+done

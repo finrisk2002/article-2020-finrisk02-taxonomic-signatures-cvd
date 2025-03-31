@@ -1,0 +1,14 @@
+"VARIABLE";"Variable.Name";"Variable.Description";"Category";"Type";"LONGNAME"
+"BL_USE_RX_L";"Cancer&Immuno Rx";"Antineoplastic and immunomodulating agents (ATC: L)";"Medication";"D";
+"CURR_SMOKE";"Smoking";"Current smoker";"Lifestyle";"D";"Current smoker 1=yes"
+"EAST";"Region";"Living in Eastern vs. Western Finland (0=West, 1=East)";"Demographic";"D";"Region, 1=EASTern Finland, 0=WESTern Finland"
+"BP_TREAT";"BP Rx";"Blood pressure medication at baseline";"Medication";"D";"BP medication at baseline"
+"MEN";"Sex";"Sex (0=Women, 1=Men)";"Demographic";"D";"Men=1, Women=0"
+"DEATH";"DEATH";"Dead=1";"Unknown";"N";"Dead=1"
+"DEATH_AGEDIFF";"DEATH_AGEDIFF";"Death-age – baseline age";"Unknown";"N";"Death-age – baseline age"
+"PREVAL_DIAB";"Diabetes";"History of type I or type II diabetes";"Disease";"D";"na"
+"BL_AGE";"Age";"Age at baseline";"Demographic";"N";"Baseline age"
+"BMI";"BMI";"Body mass index";"Physical";"N";"Body mass index"
+"SYSTM";"Systolic BP";"Systolic blood pressure";"Physical";"N";"Systolic bp"
+"BL_USE_RX_J01";"RX_J01";"Antibacterials for systemic use  (ATC: J01)";"Medication";"N";
+"HFC_score";"HFC_score";"Healthy food choices score";"Diet";"N";

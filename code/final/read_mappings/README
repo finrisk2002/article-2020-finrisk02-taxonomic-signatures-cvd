@@ -1,0 +1,20 @@
+NOTE: all files that might contain sensitive biomedical information
+have been removed. All steps of the analysis workflow are described below.
+
+1. Installed Anvi'o and samtools
+
+2. Built Bowtie2 database from VFDB FASTA using Anvi'o
+   bowtie2-build VFDB_setB_nt.fas VFDB_for_bowtie2
+
+3. Copied example files from Atlas with copyatlas.R 
+
+4. Construct sample file (samples.txt) with construct_sample_file.R
+
+5. Map FINRISK reads to VFDB (Bowtie built version)
+   ./mapping.txt -> Generates BAM files
+
+6. Analyse coverage and depth of the BAM files
+   ./coverage.sh
+
+6. Interpret the resulting BAM files with main.R
+
